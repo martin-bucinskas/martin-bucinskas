@@ -1,16 +1,36 @@
 ### Hi there 👋
 
-<!--
-**martin-bucinskas/martin-bucinskas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Massive rust fan, semi-unprofessional security enthusiast.
+My latest passion is everything digital identity related (take a look at interests).
 
-Here are some ideas to get you started:
+### A little about me
+```yml
+martin:
+  
+  currentlyWorkingOn: Digital Identity at public sector
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  pronouns:
+    - he
+    - him
+    - his
+
+  languages:
+    - rust
+    - java
+    - typescript
+    - python
+    
+  frameworks:
+    - springboot
+    - django
+    - rocket
+    
+  interests:
+    - Verifiable Credentials
+    - BSS+ Signatures
+    - Zero Knowledge Proof
+    - DIDs
+    - High Speed / Low Latency
+    - Security
+    - ETL
+```
