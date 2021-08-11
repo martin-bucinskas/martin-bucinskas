@@ -27,7 +27,7 @@ martin:
     
   interests:
     - Verifiable Credentials
-    - BSS+ Signatures
+    - BBS+ Signatures
     - Zero Knowledge Proof
     - DIDs
     - High Speed / Low Latency
