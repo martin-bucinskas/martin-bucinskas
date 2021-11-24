@@ -6,8 +6,6 @@ My latest passion is everything digital identity related (take a look at interes
 ### A little about me
 ```yml
 martin:
-  
-  currentlyWorkingOn: Digital Identity at public sector
 
   pronouns:
     - he
